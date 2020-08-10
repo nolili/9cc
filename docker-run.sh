@@ -1,0 +1,1 @@
+docker run --rm -v $HOME/ghq/github.com/nolili/9cc:/9cc -w /9cc compilerbook make test
